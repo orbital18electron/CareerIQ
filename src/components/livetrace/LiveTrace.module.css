@@ -1,0 +1,16 @@
+.trace{font-family:"DM Sans",sans-serif;}
+.empty{text-align:center;padding:2rem 1rem;color:var(--muted);}
+.emptyIcon{font-size:32px;margin-bottom:0.75rem;}
+.empty p{font-size:13px;line-height:1.6;}
+.section{margin-bottom:1.25rem;}
+.sectionTitle{font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:var(--muted);font-weight:600;margin-bottom:8px;}
+.firedRule{display:flex;align-items:center;gap:8px;padding:8px 10px;background:rgba(62,207,176,0.08);border:1px solid rgba(62,207,176,0.2);border-radius:8px;margin-bottom:6px;}
+.ruleId{font-size:10px;font-weight:700;color:var(--teal);min-width:24px;}
+.ruleCareer{font-size:12px;font-weight:500;color:var(--text);flex:1;}
+.cfBadge{font-size:10px;color:var(--teal);background:rgba(62,207,176,0.12);padding:2px 7px;border-radius:100px;border:1px solid rgba(62,207,176,0.25);}
+.partialRule{padding:8px 10px;background:rgba(224,168,0,0.06);border:1px solid rgba(224,168,0,0.15);border-radius:8px;margin-bottom:6px;}
+.partialTop{display:flex;align-items:center;gap:8px;margin-bottom:6px;}
+.pct{font-size:11px;color:var(--accent);font-weight:600;margin-left:auto;}
+.miniBar{width:100%;height:4px;background:var(--surface2);border-radius:2px;overflow:hidden;margin-bottom:4px;}
+.miniFill{height:100%;background:var(--accent);border-radius:2px;transition:width 0.3s;}
+.progress{font-size:10px;color:var(--muted);}
